@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: blue;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    color: blue;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom: 1px solid black;
+    padding-bottom: 5px; /* Cambié esto para que la línea negra no quede pegada a la letra */
+}
+
+h3 {
+    border-bottom: 1px solid black;
+}
+
+header {
+    text-align: center;
+}
+
+#Tema {
+    color: black;
+    font-size: 18px;
+    border: none;
+    margin: 10px;
+}
+
+.datop li {
+    list-style: none;
+    padding: 5px;
+    font: 14px arial;
+    display: inline-block;
+}
+
+img {
+    float: right;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+p {
+    padding: 10px;
+
+}
+
+ul li {
+    margin-left: 30px;
+    padding: 5px;
+}
+
+body {
+    padding: 100px;
+}
+
+.pagina {
+    width: 930px;
+    border: 1px solid black;
+    margin: 15px auto;
+    padding: 15px;
+}
